@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# database
+*.sqlite
+
+# static files
+uploads/*
+!uploads/.gitkeep
